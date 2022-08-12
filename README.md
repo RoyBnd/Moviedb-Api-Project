@@ -11,6 +11,6 @@ In this mini-project I am going to experiment with all three steps in the ETL pr
     
  * Load - Creating a connection to a Sql Server database and loading the data into dedicated tables for futher analysis.
  
- TO DO - Continue analyzing the data with SQL Server and presenting insights with visualizations using Tableau and PowerBiץ
+ TO DO - Continue analyzing the data with SQL Server and presenting insights with visualizations using Tableau and PowerBi.
  
  Hope you find it useful :)
