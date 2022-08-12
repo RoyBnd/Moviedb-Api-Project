@@ -40,7 +40,7 @@ col_str = ", ".join("{} {}".format(n, d) for n,d in zip(df.columns, df.dtypes.re
 STEP 2: Creating database connection 
 """
 
-server= 'DESKTOP-5EVNBVL'
+server= 'DESKTOP-*****'
 database = 'MoviedbProject'
 cnxn = pyodbc.connect('DRIVER={ODBC Driver 17 for SQL Server}; \
                        SERVER=' + server + '; \
